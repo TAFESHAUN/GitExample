@@ -1,0 +1,25 @@
+===============
+## READ ME ##
+===============
+
+## Feature List
+- This is a simple read me for the git example we are messing around with
+- Merge and Merg Conflict
+- Branching and re-base
+- Both Merge
+
+## Setup Instructions
+1. Create repo in Github => Set public or private
+2. Commit and talked about commit + push and Commit + Sync (push + pull))
+3. Create a branch and talk about branching
+4. Merge + Conflict and also pref both
+5. Rebase, merge into main etc... 
+6. Explore settings beyond that
+
+## Contributors
+- Shaun
+- Students
+
+## Context
+We are testing VCS and lets also put this README into the repo
+
